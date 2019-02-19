@@ -19,3 +19,7 @@ https://developer.amazon.com/blogs/alexa/post/08edaa00-59e2-46b7-aace-4080f2a874
 
 https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 https://developer.amazon.com/docs/custom-skills/speech-synthesis-markup-language-ssml-reference.html
+
+https://developer.amazon.com/docs/custom-skills/dialog-interface-reference.html
+https://developer.amazon.com/docs/custom-skills/understand-name-free-interaction-for-custom-skills.html
+https://developer.amazon.com/docs/custom-skills/request-and-response-json-reference.html
